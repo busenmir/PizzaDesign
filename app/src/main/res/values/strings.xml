@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PizzaDesign</string>
+    <string name="p_zza">PİZZA</string>
+    <string name="beef_cheese">Beef Cheese</string>
+    <string name="cheese">Cheese</string>
+    <string name="sausage">Sausage</string>
+    <string name="olive">Olive</string>
+    <string name="pepper">Pepper</string>
+    <string name="_20_min">20 min</string>
+    <string name="delivery">Delivery</string>
+    <string name="meat_lover_get_ready_to_meet_your_pizza">Meat Lover , get ready to meet your pizza !</string>
+    <string name="_5_98">$ 5.98</string>
+    <string name="add_to_cart">ADD TO CART</string>
+</resources>
